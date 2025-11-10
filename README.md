@@ -1,16 +1,40 @@
-## Hi there 👋
+# Nexus
 
-<!--
-**arii999-yz/arii999-yz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+![Profile](https://z-cdn-media.chatglm.cn/files/2fb0b9de-ff03-407c-8816-a741bf62ed05_Screenshot%202025-11-10%20211849.png?auth_key=1862780805-05b834bb6a8f45ee8be5698a74f83e0a-0-4d4828aedebb8379f797b0286b0955ac)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a cybersecurity professional from SMKN 2 Mataram, specializing in network and web security. My expertise includes security testing, vulnerability assessment, and risk analysis. I'm passionate about exploring new technologies and contributing to open-source projects.
+
+### Skills
+#### 🔒 Cyber Security
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=shield&logoColor=white&labelColor=005f73)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-FF6B6B?style=for-the-badge&logo=bugzilla&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-4ECDC4?style=for-the-badge&logo=searchengin&logoColor=white)
+![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-FFD166?style=for-the-badge&logo=chart-line&logoColor=white)
+
+#### 💻 Programming Languages
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Education
+- **SMKN 2 Mataram** | Computer Science/Network Security
+
+---
+
+## Current Focus
+- 🔭 I’m currently working on enhancing web application security protocols
+- 🌱 I’m currently learning advanced penetration testing techniques
+- 👯 I’m looking to collaborate on open-source security projects
+- 🤔 I’m looking for help with cloud security implementations
+- 💬 Ask me about cybersecurity best practices or web development
+- 📫 How to reach me: [Contact Me](your-contact-link)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can identify security vulnerabilities in websites within minutes!
+
+---
+
+*"In the world of cybersecurity, the best defense is a curious mind and relentless vigilance."*
