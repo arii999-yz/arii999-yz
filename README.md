@@ -44,4 +44,16 @@ I'm a cybersecurity professional from SMKN 2 Mataram, specializing in network an
 
 ---
 
+## Play Game With Me
+Want to challenge me? Try out my favorite game:  
+[![Pacman](https://img.shields.io/badge/Pacman-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.google.com/fbx?fbx=arcade_snake&hl=en_US)
+
+### 🎮 Gaming Interests
+- **Classic Arcade**: Pacman, Tetris
+- **Strategy Games**: Chess, StarCraft
+- **FPS Games**: Counter-Strike, Valorant
+- **MMORPG**: World of Warcraft
+
+---
+
 *"In the world of cybersecurity, the best defense is a curious mind and relentless vigilance."*
