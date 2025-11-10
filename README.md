@@ -1,9 +1,11 @@
-#Hello World! I'm AriManuaba
+# Nexus
+
+Hi there 👋
 
 ![Profile](https://z-cdn-media.chatglm.cn/files/f2072141-c474-4191-adc3-1766e989e074_github-header-banner.png?auth_key=1862782004-b1395bef4d8049b7ade1ed5d67fecde7-0-9af72a420eac9276d4afad2d6b96ab1d)
 
 ## About Me
-I'm a cybersecurity professional from SMKN 2 Mataram, specializing in network and web security. My expertise includes security testing, vulnerability assessment, and risk analysis. I'm passionate about exploring new technologies and contributing to open-source projects.
+I'm a cybersecurity beginner from SMKN 2 Mataram, specializing in network and web security. My expertise includes security testing, vulnerability assessment, and risk analysis. I'm passionate about exploring new technologies and contributing to open-source projects.
 
 ### Skills
 #### 🔒 Cyber Security
@@ -39,18 +41,6 @@ I'm a cybersecurity professional from SMKN 2 Mataram, specializing in network an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/arii-manuaba-392194372)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/16FZfXa7Fb/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nexustheking)
-
----
-
-## Play Game With Me
-Want to challenge me? Try out my favorite game:  
-[![Pacman](https://img.shields.io/badge/Pacman-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.google.com/fbx?fbx=arcade_snake&hl=en_US)
-
-### 🎮 Gaming Interests
-- **Classic Arcade**: Pacman, Tetris
-- **Strategy Games**: Chess, StarCraft
-- **FPS Games**: Counter-Strike, Valorant
-- **MMORPG**: World of Warcraft
 
 ---
 
