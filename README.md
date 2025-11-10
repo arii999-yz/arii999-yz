@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-![Profile](https://z-cdn-media.chatglm.cn/files/2fb0b9de-ff03-407c-8816-a741bf62ed05_Screenshot%202025-11-10%20211849.png?auth_key=1862780805-05b834bb6a8f45ee8be5698a74f83e0a-0-4d4828aedebb8379f797b0286b0955ac)
+![Profile](https://z-cdn-media.chatglm.cn/files/f2072141-c474-4191-adc3-1766e989e074_github-header-banner.png?auth_key=1862782004-b1395bef4d8049b7ade1ed5d67fecde7-0-9af72a420eac9276d4afad2d6b96ab1d)
 
 ## About Me
 I'm a cybersecurity professional from SMKN 2 Mataram, specializing in network and web security. My expertise includes security testing, vulnerability assessment, and risk analysis. I'm passionate about exploring new technologies and contributing to open-source projects.
