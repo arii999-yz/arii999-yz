@@ -1,6 +1,4 @@
-# Nexus
 
-Hello World! I'm AriManuaba
 
 ![Profile](https://z-cdn-media.chatglm.cn/files/f2072141-c474-4191-adc3-1766e989e074_github-header-banner.png?auth_key=1862782004-b1395bef4d8049b7ade1ed5d67fecde7-0-9af72a420eac9276d4afad2d6b96ab1d)
 
@@ -45,10 +43,8 @@ I'm a cybersecurity professional from SMKN 2 Mataram, specializing in network an
 ---
 
 ## Play Game With Me
-### 🎮 Pacman Game
-![Pacman Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQ3d3B0c2h6aXN3dWJ5cW9kZ2p2ZjR2cG1oZ3p2c2Z4dW5oN3F4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalBwwftBIY/giphy.gif)
-
-[![Play Pacman Online](https://img.shields.io/badge/Play%20Pacman%20Online-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.google.com/fbx?fbx=arcade_snake&hl=en_US)
+Want to challenge me? Try out my favorite game:  
+[![Pacman](https://img.shields.io/badge/Pacman-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.google.com/fbx?fbx=arcade_snake&hl=en_US)
 
 ### 🎮 Gaming Interests
 - **Classic Arcade**: Pacman, Tetris
