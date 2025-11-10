@@ -31,9 +31,16 @@ I'm a cybersecurity professional from SMKN 2 Mataram, specializing in network an
 - 👯 I’m looking to collaborate on open-source security projects
 - 🤔 I’m looking for help with cloud security implementations
 - 💬 Ask me about cybersecurity best practices or web development
-- 📫 How to reach me: [Contact Me](your-contact-link)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can identify security vulnerabilities in websites within minutes!
+
+---
+
+## Contact Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ariik_r344?igsh=MXdtdzRoMjh3aTVneA==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/arii-manuaba-392194372)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/16FZfXa7Fb/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nexustheking)
 
 ---
 
